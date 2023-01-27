@@ -1,0 +1,27 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan (Nuevo JUAN)",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Nueva nota agregada",
+      "id": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Gaar",
+      "empresa": "NTT",
+      "email": "correo@correo.com",
+      "telefono": "652236551",
+      "notas": "Este cliente desea trabajar en remoto",
+      "id": 6
+    }
+  ]
+}
